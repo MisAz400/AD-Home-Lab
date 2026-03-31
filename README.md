@@ -110,10 +110,10 @@ gpupdate /force
 
 | Screenshot | Description |
 |---|---|
-| `ou-it-users.png` | IT OU with users and IT-Admins group |
-| `ou-hr-users.png` | HR OU with users and HR-Managers group |
-| `ou-finance-users.png` | Finance OU with users and Finance-Managers group |
-| `ou-engineering-users.png` | Engineering OU with users and Engineering-Team group |
+| `ou-it.png` | IT OU with users and IT-Admins group |
+| `ou-hr.png` | HR OU with users and HR-Managers group |
+| `ou-finance.png` | Finance OU with users and Finance-Managers group |
+| `ou-engineering.png` | Engineering OU with users and Engineering-Team group |
 | `ou-disabled-users.png` | Disabled Users OU showing offboarded account |
 | `gpo-passwordpolicy.png` | Password Policy GPO settings |
 | `gpo-accountlockout.png` | Account Lockout Policy settings |
